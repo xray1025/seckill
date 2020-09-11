@@ -1,11 +1,5 @@
 # seckill
-基于SpringBoot + MySQL + Redis + RabbitMQ + Guava开发的高并发商品限时秒杀系统 
-
-
-
-# 系统介绍
-
-本系统是使用SpringBoot开发的高并发限时抢购秒杀系统，除了实现基本的登录、查看商品列表、秒杀、下单等功能，项目中还针对高并发情况实现了系统缓存、降级和限流。
+基于SpringBoot + MySQL + Redis + RabbitMQ + Guava开发的高并发商品限时秒杀系统，实现基本的登录、查看商品列表、秒杀、下单等功能，针对高并发情况实现了系统缓存、降级和限流。
 
 ## 开发工具
 
